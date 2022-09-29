@@ -31,3 +31,10 @@ body {
     color: aquamarine;
 }
 
+/* FOOTER */
+
+.link--cta-footer {
+    font-size: 16px;
+    color: grey;
+    text-align: right;
+}
